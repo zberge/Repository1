@@ -1,0 +1,3 @@
+Hello World! 
+This is me typing things for my homework. 
+This is also my first time usign GitHub. 
